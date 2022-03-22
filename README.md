@@ -32,3 +32,7 @@ pip install -r requirements.txt
 ### Run
 1. Scrape items `scrapy crawl pixiv -o items.json` (by default scrapes 100 days back (50k images))
 2. Optionally move adult images to separate `images/adult` folder by `python filter_adult_content.py`
+
+### Closing
+If you want to close app in middle of execution using ctrl+c once will start gracefull shutdown. Using ctrl+c again will execute force shut down and files (like, items.json) could be incomplete.
+**Gracefull shutdown could take up to 5 minutes.**

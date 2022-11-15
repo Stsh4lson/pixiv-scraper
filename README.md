@@ -1,7 +1,7 @@
 # pixiv-scraper
-Scraper that anonymously scrapes images from pixiv.net and filteres out adult content.
+Scraper that anonymously scrapes images from pixiv.net with optional filtering.
 
-Used by me to get an anime picture dataset for deep learning project.
+Used by me to get a dataset for deep learning project.
 
 ### File structure
 ```

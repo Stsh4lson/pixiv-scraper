@@ -1,3 +1,6 @@
+# Deprecated
+### I do not longer maintain this repository, it's and old university project. I do not stand by this code but I leave it as a reference for someone who may find it usefull.
+
 # pixiv-scraper
 Scraper that anonymously scrapes images from pixiv.net with optional filtering.
 
